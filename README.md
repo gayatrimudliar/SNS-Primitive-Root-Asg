@@ -5,7 +5,7 @@ Initial Requirements:
 2. g++ compiler (sudo apt install g++)
 
 Commands for execution (Type in terminal):
-1. compile the code: g++ snsasg.cpp -o sns -lgmp
+1. compile the code: g++ SNS_ASG.cpp -o sns -lgmp
 2. run it: ./sns
 3. you will be asked to input the number you want to calculate all the primitive roots of. Enter the number.
 
